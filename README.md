@@ -12,7 +12,7 @@
 
 Note: Responsive styles work in progress
 
-![Griffith Review Preview Image](/Users/andrewoneill/Google Drive/Images/Portfolio Sep 2016/GR.png)
+![Griffith Review Preview Image](https://andrew-oneill.github.io/images/gr.png)
 
 
 
@@ -22,7 +22,7 @@ Note: Responsive styles work in progress
 
 [http://neverlandstudio.com.au](http://neverlandstudio.com.au)
 
-![Neverland Studio Preview Image](/Users/andrewoneill/Google Drive/Images/Portfolio Sep 2016/neverland.png)
+![Neverland Studio Preview Image](https://andrew-oneill.github.io/images/neverland.png)
 
 
 
@@ -32,7 +32,7 @@ Note: Responsive styles work in progress
 
 [http://privateequitygateway.com](http://privateequitygateway.com)
 
- ![Private Equity Gateway Group Preview Image](/Users/andrewoneill/Google Drive/Images/Portfolio Sep 2016/pegg.png)
+ ![Private Equity Gateway Group Preview Image](https://andrew-oneill.github.io/images/pegg.png)
 
 
 
@@ -42,7 +42,7 @@ Note: Responsive styles work in progress
 
 [http://tellmedarling.com.au](http://tellmedarling.com.au)
 
- ![tmd](/Users/andrewoneill/Google Drive/Images/Portfolio Sep 2016/tmd.png)
+ ![Tell Me Darling Preview Image](https://andrew-oneill.github.io/images/tmd.png)
 
 
 
@@ -52,5 +52,5 @@ Note: Responsive styles work in progress
 
 [http://centeronefinance.com.au](http://centeronefinance.com.au)
 
- ![cof](/Users/andrewoneill/Google Drive/Images/Portfolio Sep 2016/cof.png)
+ ![CenterOne Finance Preview Image](https://andrew-oneill.github.io/images/cof.png)
 
