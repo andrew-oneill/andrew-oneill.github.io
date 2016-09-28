@@ -40,7 +40,7 @@ Note: Responsive styles work in progress
 
 ### Roles: Developer
 
-[http://tellmedarling.com.au](http://tellmedarling.com.au)
+[http://tellmedarling.com](http://tellmedarling.com)
 
  ![Tell Me Darling Preview Image](https://andrew-oneill.github.io/images/tmd.png)
 
